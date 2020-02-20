@@ -315,6 +315,7 @@ def process_postback_event(event):
 
 # In[ ]:
 
+'''
 #======================讀取使用者傳入訊息
 from linebot import LineBotApi
 
@@ -327,6 +328,9 @@ with open(message_from_user, 'wb') as fd:
 
 
 #======================
+'''
+
+
 '''
 
 Application 運行（開發版）
