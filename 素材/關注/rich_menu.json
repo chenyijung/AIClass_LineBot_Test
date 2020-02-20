@@ -1,0 +1,61 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "圖文選單 1",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 9,
+        "y": 4,
+        "width": 1241,
+        "height": 830
+      },
+      "action": {
+        "type": "message",
+        "text": "請用line相機拍約30分鐘的胎心率圖"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1263,
+        "y": 13,
+        "width": 1220,
+        "height": 813
+      },
+      "action": {
+        "type": "postback",
+        "text": "文章",
+        "data": "paper=文章"
+      }
+    },
+    {
+      "bounds": {
+        "x": 13,
+        "y": 848,
+        "width": 1241,
+        "height": 822
+      },
+      "action": {
+        "type": "postback",
+        "text": "請選擇你想查詢的時間",
+        "data": "folder=03_歷史記錄"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1271,
+        "y": 865,
+        "width": 1199,
+        "height": 796
+      },
+      "action": {
+        "type": "message",
+        "text": "請輸入會員資料"
+      }
+    }
+  ]
+}

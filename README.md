@@ -1,2 +1,3 @@
-# AIClass_LineBot_Test
-Line bot test
+# 免資料庫的極速開發前台頁面模板
+只需要將自己想準備的素材放到資料夾內，然後放到heroku，就可以快速部署自己的專有機器人了喔。
+
